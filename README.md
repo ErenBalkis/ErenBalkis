@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 I'm Eren Balkış:
-🔭I study at Istanbul University in the Department of Computer Science.<br>🌱I develop myself in Python and its libraries such as Numpy, Pandas, Matplotlib and scikit-learn.<br>⚡I am interested in topics such as Data Processing, Data Visualization and Machine Learning.<br/>C++ I improve myself by writing object codes in C++.<br/>☕I also like working with data structures and developing small applications in Java.
+🔭I study at Istanbul University in the Department of Computer Science.<br>🌱I develop myself in Python and its libraries such as Numpy, Pandas, Matplotlib and scikit-learn.<br>⚡I am interested in topics such as Data Processing, Data Visualization and Machine Learning.<br/>🇨 I improve myself by writing OOP codes in C++.<br/>☕I also like working with data structures and developing small applications in Java.
 
 
 ## 🌐 Socials:
